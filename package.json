@@ -1,0 +1,30 @@
+{
+  "name": "node-json-coding",
+  "version": "0.0.1",
+  "description": "Provides way to encode JSON data",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d1b1/node-json-coding.git"
+  },
+  "keywords": [
+    "json",
+    "encode",
+    "decode"
+  ],
+  "author": "Stephan Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d1b1/node-json-coding/issues"
+  },
+  "homepage": "https://github.com/d1b1/node-json-coding",
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1"
+  }
+}
