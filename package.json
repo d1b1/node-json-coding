@@ -1,5 +1,5 @@
 {
-  "name": "node-json-coding",
+  "name": "coding",
   "version": "0.0.1",
   "description": "Provides way to encode JSON data",
   "main": "index.js",
